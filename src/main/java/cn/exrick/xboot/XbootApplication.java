@@ -21,6 +21,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @MapperScan({"cn.exrick.xboot.**.mapper","cn.exrick.xboot.**.dao"})
 public class XbootApplication {
     public static void main(String[] args) {
+        System.out.print("更新日期:20240218");
         SpringApplication.run(XbootApplication.class, args);
     }
 }
