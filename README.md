@@ -1,4 +1,4 @@
-# XBoot
+# X-Platform
 [![AUR](https://img.shields.io/badge/GPL-v3-red)](https://github.com/chenchao1231/X-platform/blob/main/License)
 ![GitHub stars](https://img.shields.io/github/stars/Chenchao1231/X-platform.svg?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/Chenchao1231/X-platform.svg?style=social&label=Fork)
